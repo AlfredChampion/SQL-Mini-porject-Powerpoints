@@ -14,7 +14,7 @@ The users’ responses are stored in a table called survey.
 Select all columns from the first 10 rows. What columns does the table have?
 
 
-Stuck? Get a hint
+
 2.
 Users will “give up” at different points in the survey. Let’s analyze how many users move from Question 1 to Question 2, etc.
 
@@ -23,7 +23,7 @@ Create a quiz funnel using the GROUP BY command.
 What is the number of responses for each question?
 
 
-Stuck? Get a hint
+
 3.
 Using a spreadsheet program like Excel or Google Sheets, calculate the percentage of users who answer each question:
 
@@ -32,7 +32,7 @@ Which question(s) of the quiz have a lower completion rates?
 What do you think is the reason?
 
 
-Stuck? Get a hint
+
 Home Try-On Funnel:
 4.
 Warby Parker’s purchase funnel is:
@@ -55,7 +55,7 @@ Examine the first five rows of each table
 What are the column names?
 
 
-Stuck? Get a hint
+
 5.
 We’d like to create a new table with the following layout:
 
@@ -74,7 +74,7 @@ Use a LEFT JOIN to combine the three tables, starting with the top of the funnel
 Select only the first 10 rows from this table (otherwise, the query will run really slowly).
 
 
-Stuck? Get a hint
+
 6.
 Once we have the data in this format, we can analyze it in several ways:
 
